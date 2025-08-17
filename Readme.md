@@ -66,7 +66,7 @@ To ensure clean and meaningful results, my approach applies the following **mult
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/bookinguru.git
+git clone https://github.com/marrishiva3/BookingGuru.git
 cd bookinguru
 ```
 
